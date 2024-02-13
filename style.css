@@ -1,0 +1,44 @@
+body{
+    color: white;
+}
+
+.nav-css{
+    color: gold;
+}
+
+.nav-css:hover{
+    color: yellow;
+}
+
+.footer{
+    color: rgb(182, 245, 245);
+    align-items: center;
+    text-align: center;
+    border: solid rgb(170, 167, 167) 1px;
+}
+
+.entry{
+    text-align: center;
+    padding: 5%;
+}
+table{
+    border: solid white 1px;
+}
+
+.expense-main-divs{
+    text-align: center;
+    padding: 5%;
+}
+
+@keyframes submit-btn-size {
+    25%{width: 76px;}
+    100%{width: 170px;}
+}
+
+.submit-btn{
+    transition-duration: 2s;
+}
+
+.submit-btn:hover{
+    width: 170px;
+}
