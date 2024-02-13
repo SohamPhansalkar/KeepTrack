@@ -2,25 +2,25 @@
 ## Track your inflow and outflow 
 
 This project is made for personal use,
-this web based app allows user to keep a record of money in a neat and organised way
+this web-based app allows users to keep a record of money in a neat and organised way
 
-- Multi languaged project
-- DataBase managenmt
+- Multi-language project
+- Database management
 - Frontend + Backend
 ## Features
 
 - Organized and neat
-- Light weight
-- Respensive
-- Works great cross platform
-- Compatable with WearOS & Android watches
+- Lightweight
+- Responsive
+- Works great cross-platform
+- Compatible with WearOS & Android watches
 
 > Idea
-> Faced problem to keep a record of my expenditure,
-> also it was difficult to report expenditure at the end of the month.
-> This lightweight webapp
-> helped to record as well as to reduce unneseaary expenses
-> and also to keep track the money which I have lened to my friends
+> Faced the problem of keeping a record of my expenditures,
+> Also it was difficult to report expenditures at the end of the month.
+> This lightweight web app
+> helped to record as well as to reduce unnecessary expenses
+> and also to keep track of the money which I have learned to my friends
 > This saves me from running out of my money
 
 
@@ -28,18 +28,17 @@ this web based app allows user to keep a record of money in a neat and organised
 
 - [PHP] - Backend, DBMS, main working
 - [HTML] - Frontend, Skeleton of the website
-- [CSS] - Frontend, styleing website (beautify)
+- [CSS] - Frontend, styling website (beautify)
 - [JS] - Frontend, basic functionality
-- [node.js] - evented I/O for the backend
 - [MySQL] - Backend, store data, PhpMyAdmin based
-- [BootStrap] - Frontend, to make it respnsive
+- [BootStrap] - Frontend, to make it responsive
 
 
 ## Installation
 
-KeepTrack requires PHP to run backend.
+KeepTrack requires PHP to run the backend.
 
-Install the required applications & softwares to start the server.
+Install the required applications & software to start the server.
 
 ```
 PHP and MySQL data server
@@ -55,7 +54,7 @@ https://code.visualstudio.com/Download
 
 ## Technology
 KeepTrack is a multilanguage project
-This also is a cross platform prject so this needs to be a responsive webapp
+This also is a cross-platform prject so this needs to be a responsive web app
 
 | Use | Name |
 | ------ | ------ |
@@ -67,7 +66,7 @@ This also is a cross platform prject so this needs to be a responsive webapp
 | Free Host | 000webshost|
 |Paid Host | AWS, Google Cloud|
 
-BootStrap helps to make it responsive
+Bootstrap helps to make it responsive
 and code frontend fast.
  You always have CSS to give it a personal touch.
 ## File System
@@ -77,7 +76,7 @@ Main/Home page:
 index.php
 ```
 
-To connect to server:
+To connect to the server:
 ```
 server.php
 ```
