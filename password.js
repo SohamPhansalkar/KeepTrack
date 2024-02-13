@@ -1,4 +1,4 @@
-const password = "alpha";
+const password = "*****";
 
 var userInput = prompt("Password: ");
 
